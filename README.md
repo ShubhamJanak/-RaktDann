@@ -26,6 +26,6 @@ Built as a BSc Computer Science field project: Blood Donor Awareness and Directo
 - Spread awareness about blood donation
 - Maintain a simple, searchable donor directory
 
-⚠️ Disclaimer
+⚠️ Disclaimer : 
 
 RaktDann is an academic project and not a substitute for official blood bank services. In a medical emergency, contact your nearest hospital or blood bank directly.
