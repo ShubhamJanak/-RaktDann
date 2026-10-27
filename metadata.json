@@ -1,0 +1,6 @@
+{
+  "name": "RaktDaan - Blood Donor Awareness & Directory",
+  "description": "Comprehensive Indian blood donor awareness, directory management, and real-time emergency blood request platform with donor availability tracking, 90-day eligibility calculator, and Indian helpline integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
